@@ -1,7 +1,6 @@
 # PF-Lab03-25K0826
 #PF-LAB03-TASK5
 ##List of Subjects
--Physics
 -Math
 *English
 +Computer Science
